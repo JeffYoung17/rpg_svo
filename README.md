@@ -1,3 +1,10 @@
+### docker version of svo
+```shell
+cd docker
+./contan_start.sh
+./contan_into.sh
+```
+
 SVO
 ===
 
@@ -27,8 +34,9 @@ If you use SVO in an academic context, please cite the following publication:
       booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
       year = {2014}
     }
-    
-    
+
+
+​    
 #### Documentation
 
 The API is documented here: http://uzh-rpg.github.io/rpg_svo/doc/
