@@ -1,5 +1,9 @@
-### docker version of svo
+### docker version
+
+Download docker image, be sure the docker has been installed.
 ```shell
+docker pull jeffyoung17/robotics:slam_svo_latest
+todo
 cd docker
 ./contan_start.sh
 ./contan_into.sh
