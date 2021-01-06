@@ -39,6 +39,7 @@ class Matcher;
 class DepthFilter;
 
 /// Base class for various VO pipelines. Manages the map and the state machine.
+/// 各种VO系统的基类, 管理地图和系统的状态机 
 class FrameHandlerBase : boost::noncopyable
 {
 public:
